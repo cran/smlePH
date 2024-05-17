@@ -1,0 +1,12 @@
+fd903a0f0738ed32110fbfaa4090613d *DESCRIPTION
+ae09448d529111afb64829f1853bd569 *NAMESPACE
+f15b2f9a8183f9d6d1053a422bf01b99 *R/smle_ph.R
+1f44495430557c59770891cc1b47841d *R/smle_resid.R
+8081a43802ffb85cedd529647a48b6bd *README.md
+0b547457fae1fd71d84ecdf4a1364965 *build/vignette.rds
+56d9a08dfb6e4a3743b53358f77eaaf8 *inst/doc/smlePH.R
+81c9cfdaa7a9f3f626f67f96a1d3b491 *inst/doc/smlePH.Rmd
+4d8d47376d28e37289fbf01e245ba6bf *inst/doc/smlePH.html
+9e7d86cff87a9aecfb5068560d79e95f *man/smle_ph.Rd
+e86c21968c6d77b6aa45628033807d78 *man/smle_resid.Rd
+81c9cfdaa7a9f3f626f67f96a1d3b491 *vignettes/smlePH.Rmd
